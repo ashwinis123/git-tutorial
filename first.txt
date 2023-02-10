@@ -1,1 +1,2 @@
 hello GIT
+today is 30
